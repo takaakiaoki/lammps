@@ -63,7 +63,8 @@ PACKUSER = user-atc user-awpmd user-cgdna user-cgsdk user-colvars \
 	   user-mgpt user-misc user-molfile \
 	   user-netcdf user-omp user-phonon user-qmmm user-qtb \
 	   user-quip user-reaxc user-smd user-smtbq user-sph user-tally \
-	   user-uef user-vtk
+	   user-uef user-vtk \
+	   user-swwwc
 
 PACKLIB = compress gpu kim kokkos latte meam mpiio mscg poems \
 	  python reax voronoi \
